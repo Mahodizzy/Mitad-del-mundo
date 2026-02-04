@@ -80,7 +80,7 @@ header {
 
 #store-name {
     /* AJUSTE CLAVE: Reducimos el tamaño mínimo y permitimos wrap */
-    font-size: clamp(2rem, 4vw, 3rem);
+    font-size: clamp(1rem, 3vw, 3rem);
     line-height: 1.1; /* Un poco más de altura por si salta de línea */
     font-weight: 800;
     background: linear-gradient(to bottom, #fff, #ccc);
@@ -433,6 +433,7 @@ header p {
     box-shadow: 0 25px 50px -12px rgba(0, 0, 0, 0.5);
 
 }
+
 
 
 
