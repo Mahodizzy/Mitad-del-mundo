@@ -56,7 +56,7 @@ h2, h3 {
 
 h1 {
     font-family: var(--font-display);
-    font-weight: 500;
+    font-weight: 300;
     margin: 0;
     letter-spacing: -0.02em;
 }
@@ -433,5 +433,6 @@ header p {
     box-shadow: 0 25px 50px -12px rgba(0, 0, 0, 0.5);
 
 }
+
 
 
