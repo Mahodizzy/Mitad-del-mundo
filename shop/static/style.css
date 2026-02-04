@@ -47,9 +47,16 @@ body::before {
     100% { transform: translate(-5%, -5%) rotate(5deg); }
 }
 
-h1, h2, h3 {
+h2, h3 {
     font-family: var(--font-display);
     font-weight: 700;
+    margin: 0;
+    letter-spacing: -0.02em;
+}
+
+h1 {
+    font-family: var(--font-display);
+    font-weight: 500;
     margin: 0;
     letter-spacing: -0.02em;
 }
@@ -426,4 +433,5 @@ header p {
     box-shadow: 0 25px 50px -12px rgba(0, 0, 0, 0.5);
 
 }
+
 
